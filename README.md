@@ -1,1 +1,1 @@
-# My Discrete Math Labs
+# My Algorythms Labs.
