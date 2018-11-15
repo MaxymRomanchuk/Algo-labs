@@ -1,1 +1,1 @@
-# lab1
+# My Discrete Math Labs
